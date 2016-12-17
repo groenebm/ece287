@@ -7,6 +7,11 @@ test.v is the verilog file for the final project by Brandt Groene and Haley Olso
 
 Youtube Video:  https://youtu.be/Q4WGpJwHwzg
 
+more pictures with description 
+
+https://docs.google.com/a/miamioh.edu/document/d/1-5DLq3WsuCJu6UTtaHOeaYfVvasF90rNPI_LSL0naPk/edit?usp=sharing
+
+
 
 Description of design:
 
@@ -39,6 +44,9 @@ Do nothing = 000  //used for days of rain
 Water the plants = 001 //used for sunny days
 Go hunting = 010 //used for days of deer
 Heat the plant = 100 // used for days of frost.
+
+Description of the game:
+	This game simulates the growing of corn in 9 days given different variables to work with. The player of the game needs to make different choices based on these variables in order for the corn to continue growing healthy so they are able to “survive”. The player will get notifications on his/her phone telling the player what variables are coming up. The three variables the player needs to work with include rain, deer, and frost. For example, if it’s raining, the player does not need to water the corn. If there are deer, the player can go hunting. The deer will “take a bite” out of the corn if the player fails to go hunting. If there is frost, the player needs to heat the corn so it can survive. Our days are broken up into two shifts, morning and afternoon. The difference in time can be seen on the VGA monitor. The 7-segment display shows the number of choices the player has had to make versus the number of correct choices the player has made. If the player makes an incorrect choice, the corn will turn brown and is now wilting. However, the player has the ability to “catch back up”, because while this plant is in the wilting state, each correct choice the player makes counts as 2 correct choices. If the player continues to make incorrect choices, the corn
 
 
 
