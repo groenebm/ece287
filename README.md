@@ -61,6 +61,9 @@ Go hunting = 010 //used for days of deer
 Heat the plant = 100 // used for days of frost.
 
 
+Conclusion: We were able to develop and original game that had mechanics that made it rewarding to play and had clear objectives. We used a vga module that showed the graphics, and used a second type of external device, the phones cards that told the weather of the next day. This combined to be a game that was had a clear end state and followed the principles of game design.
+
+
 
 The VGA module was the one that Parth had edited to work on these displays.
 
